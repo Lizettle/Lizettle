@@ -21,7 +21,7 @@ OSINT
 
 ## Certifications
 <div>
-  <a href="https://www.credly.com/badges/2826b5bc-f685-4691-bbb4-544bca116cdb/public_url)"> <img src="https://img.shields.io/badge/-BTL1-000080?&style=for-the-badge&logo=BTL1&logoColor=white" />
+  <img src="https://img.shields.io/badge/-BTL1-000080?&style=for-the-badge&logo=BTL1&logoColor=white" />
   <img src="https://img.shields.io/badge/-GFACT-FFD700?&style=for-the-badge&logo=GIAC&logoColor=white" />
  <img src="https://img.shields.io/badge/-CC-006400?&style=for-the-badge&logo=ISC2&logoColor=white" />
   <img src="https://img.shields.io/badge/-Network Defense-007ACC?&style=for-the-badge&logo=CISCO&logoColor=white" />
