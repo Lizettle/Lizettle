@@ -1,6 +1,6 @@
 # Hello, I'm Elizabeth Ekedoro
 <a href="https://www.linkedin.com/in/ekedoro-elizabeth"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.linktree.com/Lt/ekedoro-elizabeth"><img src="https://img.shields.io/badge/-Linktree-254F1A?&style=for-the-badge&logo=linktree&logoColor=Lincoln Green" /></a>
+<a href="https://www.linktree.com/ekedoro-elizabeth"><img src="https://img.shields.io/badge/-Linktree-254F1A?&style=for-the-badge&logo=linktree&logoColor=Lincoln Green" /></a>
 
 
 I am a SOC Analyst holding BTL1 and GIAC GFACT certifications. With a passion for equipping professionals and enthusiasts, I strive to share cutting-edge AI-driven preventive and mitigative strategies, tools, and insights. My profound interest in Cybersecurity research and Technical writing fuels my commitment to making cybersecurity accessible to all.
