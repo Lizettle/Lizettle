@@ -3,12 +3,11 @@
 <a href="https://linktr.ee/elizabethekedoro"><img src="https://img.shields.io/badge/-Linktree-254F1A?&style=for-the-badge&logo=linktree&logoColor=Lincoln Green" /></a>
 
 
-I am a SOC Analyst holding BTL1 and GIAC GFACT certifications. With a passion for equipping professionals and enthusiasts, I strive to share cutting-edge AI-driven preventive and mitigative strategies, tools, and insights. My profound interest in Cybersecurity research and Technical writing fuels my commitment to making cybersecurity accessible to all.
-
+SOC Analyst |Technical Writer/AI Researcher |Cybersecurity Advocacy|BTL1- Gold Coin|CSEAN Rising Star of The Year Award Winner | Featured in GlobalSecurityMagazine|CyberGirls Alumna|WiCyS Member|Cyber Facilitator|Speaker
 
 ## Objective
+I am a SOC Analyst passionate about equipping professionals and enthusiasts, I strive to share cutting-edge AI-driven preventive and mitigative strategies, tools, and insights. My interest in Cybersecurity research and Technical writing fuels my commitment to making cybersecurity accessible to all.
 
-Seeking an opportunity in a Security Operations Center (SOC) as a Tier 1 Analyst to leverage my passion for cybersecurity and contribute to enhancing organizational security measures.
 
 ## Skills
 
